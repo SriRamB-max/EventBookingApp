@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/yourusername)
+- ** Sriram Balamurugan ** - Initial work - [MyGitHub](https://github.com/SriramB-max)
 
 ## 🙏 Acknowledgments
 
